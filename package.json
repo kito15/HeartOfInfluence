@@ -8,7 +8,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "body-parser": "^1.19.0",
-    "axios": "^0.24.0"
+    "axios": "^1.6.3"
   },
   "scripts": {
     "start": "node index.js"
